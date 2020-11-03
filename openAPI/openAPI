@@ -19,10 +19,6 @@
     "url" : "https://dev.example.com",
     "description" : "Development.server"
   }, {
-  "servers" : [ {
-    "url" : "https://710b702c-af8f-4dc6-a716-75b2d36d5672.mock.pstmn.io",
-    "description" : "Mock Server"
-  }, {
     "url" : "https://qa.example.com",
     "description" : "QA Server"
   }, {
